@@ -1,0 +1,5 @@
+3 1
+kicsik l 86
+ehesek f 12
+picik l 90
+szaporak n 26

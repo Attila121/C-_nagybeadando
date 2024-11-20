@@ -1,0 +1,5 @@
+1 3
+ravaszak s 8
+furgek n 88
+ehesek f 12
+tollasak h 6

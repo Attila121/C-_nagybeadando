@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1654331984 source:c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	<vector>
+	"zsakmany.h"
+	"ragadozo.h"
+	"catch.hpp"
+
+1653814630 source:c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\ragadozo.cpp
+	"ragadozo.h"
+
+1653816731 source:c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\zsakmany.cpp
+	"zsakmany.h"
+
+1654364714 c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\zsakmany.h
+	<string>
+
+1654364737 c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\ragadozo.h
+	<string>
+
+1652871852 c:\users\attil\desktop\egyetem\2.félév\obijektumnyelvu\nagybeadando\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1653814632 source:c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\ragadozo.cpp
+	"ragadozo.h"
+
+1654364738 c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\ragadozo.h
+	<string>
+
+1653816732 source:c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\zsakmany.cpp
+	"zsakmany.h"
+
+1654364716 c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\zsakmany.h
+	<string>
+
+1730366325 source:c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	<vector>
+	"zsakmany.h"
+	"ragadozo.h"
+	"catch.hpp"
+
+1652871852 c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1653814632 source:c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\src\ragadozo.cpp
+	"ragadozo.h"
+
+1654364738 c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\src\ragadozo.h
+	<string>
+
+1653816732 source:c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\src\zsakmany.cpp
+	"zsakmany.h"
+
+1654364716 c:\users\attil\desktop\egyetem\projektek\c++ nagybeadando\src\zsakmany.h
+	<string>
+
